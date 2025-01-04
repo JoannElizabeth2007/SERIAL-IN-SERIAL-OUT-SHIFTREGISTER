@@ -63,4 +63,5 @@ endmodule
 ![image](https://github.com/user-attachments/assets/2b21a5f3-fb4d-4137-be66-d96ca458c8e6)
 
 **RESULTS**
- The 4-bit SISO (Serial-In Serial-Out) shift register was successfully implemented using Verilog in Quartus Prime. The functionality was validated using the truth table. The shift register correctly shifted the input data one bit at a time through the flip-flops on each clock pulse. The outputs q0, q1, q2, and q3 were observed to propagate the input data as expected, confirming the correct operation of the shift register.
+
+ The 4-bit SISO (Serial-In Serial-Out) shift register was successfully implemented using Verilog in Quartus Prime.
